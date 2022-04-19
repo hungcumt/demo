@@ -3,4 +3,4 @@ Dong 2
 Dong 3
 Dong 4 (Mr. A)
 Dòng 5 (Mr. B)
-Dong 6 (Mr. A)
+Dong 6.1 (Mr. A)
