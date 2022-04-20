@@ -3,5 +3,11 @@ Dong 2
 Dong 3
 Dong 4 (Mr. A)
 Dòng 5 (Mr. B)
+<<<<<<< HEAD
 
 Dong 7 (Hung)
+=======
+Dong 6.1 (Mr. A)
+>>>>>>> 325bd77ce1018069fa0beec4e3edd7289e0d1dd9
+
+Dong 8 20.4 (Hung)
